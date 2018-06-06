@@ -1,0 +1,16 @@
+autocannon:125mm Light 'Scout' AutoCannon I:960:4300:3:2.475
+autocannon:150mm Light 'Scout' AutoCannon I:1080:4730:3.38:2.97
+autocannon:150mm Light 'Scout' AutoCannon I:1080:4730:3.38:2.97
+autocannon:200mm Light 'Scout' AutoCannon I:1200:5160:3.465:3.465
+artillery:250mm Light 'Scout' Artillery I:9660:8750:6.098:8.5
+artillery:280mm Light 'Scout' Artillery I:12000:8750:8.452:10.7
+beam:Dual Modulated Light Energy Beam I:11550:2000:3.6:4
+beam:Small Focused Modulated Energy Beam I:2500:2500:5.4:5
+pulse:Gatling Modulated Energy Beam I:5040:1000:2.1:1.8
+pulse:Small Focused Modulated Pulse Energy Beam I:6300:2500:3.5:3.6
+blaster:Modal Light Electron Particle Accelerator I:1200:1500:2:2.205
+blaster:Modal Light Ion Particle Accelerator I:1500:2000:3:3.54375
+blaster:Modal Light Neutron Particle Accelerator I:1800:2500:3.5:4.41
+rail:75mm Prototype Gauss Gun:7200:3000:2.6:1.98
+rail:125mm Prototype Gauss Gun:10800:5000:3.3:2.64
+rail:150mm Prototype Gauss Gun:14400:6000:4.3:3.63

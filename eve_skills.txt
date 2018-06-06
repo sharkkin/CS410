@@ -1,0 +1,13 @@
+Gunnery=1
+Rapid Firing=2
+Sharpshooter=0
+Small Artillery Specialization=0
+Small Autocannon Specialization=0
+Small Beam Laser Specialization=0
+Small Blaster Specialization=0
+Small Energy Turret=0
+Small Hybrid Turret=0
+Small Projectile Turret=0
+Small Pulse Laser Specialization=0
+Small Railgun Specialization=0
+Surgical Strike=0
