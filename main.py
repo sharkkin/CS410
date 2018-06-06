@@ -190,37 +190,3 @@ def main():
 
 main()
 
-'''
-    gunnery = skills.my_dict.get('Gunnery')# 2% bonus to rate of fire
-    rapid_firing = skills.my_dict.get('Rapid Firing')#4% bonus rate of fire
-    sharpshooter = skills.my_dict.get('Sharpshooter')# 5% range bonus
-    sm_arty_spec = skills.my_dict.get('Small Artillery Specialization')# 2% bonus damage for small artillery
-    sm_auto_spec = skills.my_dict.get('Small Autocannon Specialization')#2% bonus
-    sm_beam_spec = skills.my_dict.get('Small Beam Laser Specialization')
-    sm_blast_spec = skills.my_dict.get('Small Blaster Specialization')
-    sm_energy = skills.my_dict.get('Small Energy Turret')
-    sm_hybrid = skills.my_dict.get('Small Hybrid Turret')
-    sm_project = skills.my_dict.get('Small Projectile Turret')
-    sm_laser = skills.my_dict.get('Small Pulse Laser Specialization')
-    sm_railgun = skills.my_dict.get('Small Railgun Specialization')
-    surgical = skills.my_dict.get('Surgical Strike')
-    print("auto",sm_auto_spec)
-    print("beam",sm_beam_spec)
-    print("blast",sm_blast_spec)
-    print("energy",sm_energy)
-    print("hybrid",sm_hybrid)
-    print("proj",sm_project)
-    print("laser",sm_laser)
-    print("rail",sm_railgun)
-    print("surg",surgical)
-    return 
- #   for x in new_weapons.get(ammo_type):
-  #    if x optimal >= required_dist:
-
-dictionary.keys
-
-      print("Gunnery %s" % str(skills["Gunnery"]))
-      print("Rap %s" % str(skills["Rapid Firing"]))
-      print(weapons)
-
-'''
